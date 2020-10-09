@@ -26,7 +26,7 @@ ${APELLIDOAUT}   Automatizacion
 &{ANCI}     CA=Checkin en aeropuerto      PA=Prioridad de abordaje   no=no
 
 #DATOS TARJETAS
-${NumeroTarjeta}       4511280949810834         #5454545454541111   #4539 4175 1776 7891
+${NumeroTarjeta}      5454545454541111   #4539 4175 1776 7891
 ${FechaExpiracion}    0621     #0729     #0621  #0221
 ${MesExpiracion}      02
 ${AnoExpiracion}      21
